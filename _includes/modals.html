@@ -36,8 +36,10 @@
               </li>
               {% endif %}
             </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+            <button type="button" class="btn btn-danger" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
+            <!-- GitHub Repository Link Button -->
+             <button type="button" class="btn btn-default" onclick="window.open('{{ post.github }}', '_blank');"><i class="fab fa-github"></i> GitHub Repository</button>
           </div>
         </div>
       </div>

@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2023-05-03
+img: https://avatars.githubusercontent.com/u/83615373?v=4
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2023
+client: UM Programming II Course
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Backend service of the Platform UM bus travel app project. The service in question was created with Java, specifically with the Spring Boot framework in order to get a complete and functional REST API to be able to make a wide variety of requests.
+github: https://github.com/NKAmazing/PlatformUM
 ---
