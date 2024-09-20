@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2023-08-06
+img: platformum_cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: August 2023
+client: UM Programming II Course
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Frontend service of the Platform UM bus travel app project. The service in question was created with React Native, specifically with the Expo Dev toolset in order to get a complete responsive and interactive Mobile Interface.
+github: https://github.com/NKAmazing/PlatformUM_Frontend
 ---

@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2024-04-07
+img: deepcatcher-cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2024
+client: UM TIF III Course
+category: AI and Data Science
+description: Artificial Intelligence model trained for Deepfake detection. Developed with Python and Tensorflow.
+github: https://github.com/NKAmazing/Deepcatcher_Detection
 ---

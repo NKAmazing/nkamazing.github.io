@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2024-05-12
+img: deepcatcher-cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2024
+client: UM TIF III Course
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Backend service of the Deepcatcher AI application. Used for the registration and management of users who want to save the application's predictions. Developed with Python Django.
+github: https://github.com/NKAmazing/Deepcatcher_User_Service
 ---

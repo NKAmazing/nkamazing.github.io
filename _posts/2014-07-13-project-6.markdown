@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2014-05-20
+img: deepcatcher-cover.png
 alt: image-alt
-project-date: April 2014
+project-date: May 2024
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Website environment designed for user to the test Deepfake detection model. Developed in Python Streamlit.
+github: https://github.com/NKAmazing/Deepcatcher_web
 ---
