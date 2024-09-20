@@ -9,4 +9,5 @@ client: UM Programming I Course
 category: Web Development
 description: Website to read, upload and rate poems. Developed and designed with Python Flask and Bootstrap.
 github: https://github.com/NKAmazing/thepoetsinn
+name: The Poet's Inn - Poem Website
 ---

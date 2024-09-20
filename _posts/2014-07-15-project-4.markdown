@@ -9,4 +9,5 @@ client: UM TIF III Course
 category: AI and Data Science
 description: Artificial Intelligence model trained for Deepfake detection. Developed with Python and Tensorflow.
 github: https://github.com/NKAmazing/Deepcatcher_Detection
+name: Deepcatcher AI - Detection Model
 ---

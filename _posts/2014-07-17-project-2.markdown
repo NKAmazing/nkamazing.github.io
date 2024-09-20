@@ -9,4 +9,5 @@ client: UM Programming II Course
 category: Web Development
 description: Frontend service of the Platform UM bus travel app project. The service in question was created with React Native, specifically with the Expo Dev toolset in order to get a complete responsive and interactive Mobile Interface.
 github: https://github.com/NKAmazing/PlatformUM_Frontend
+name: Platform UM Frontend
 ---

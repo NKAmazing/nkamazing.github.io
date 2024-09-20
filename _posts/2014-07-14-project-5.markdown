@@ -9,4 +9,5 @@ client: UM TIF III Course
 category: Web Development
 description: Backend service of the Deepcatcher AI application. Used for the registration and management of users who want to save the application's predictions. Developed with Python Django.
 github: https://github.com/NKAmazing/Deepcatcher_User_Service
+name: Deepcatcher AI - User Service API
 ---
