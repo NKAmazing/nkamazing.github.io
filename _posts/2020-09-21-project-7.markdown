@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2023-03-12
+img: chatnethub-cover.png
+alt: image-alt
+project-date: March 2023
+client: UM Software Engineering Course
+category: Web Development
+description: Client-server application, which simulates a chat in real time, where users communicate in different already armed groups. It uses a Django Async Server and Microservices to run user login and real-time chat. Developed with Python Django, Docker, Traefik and Redis.
+github: https://github.com/NKAmazing/real_time_chat_project
+name: Chatnet Hub - Real Time Chat
+---

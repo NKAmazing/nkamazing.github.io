@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2022-03-13
-img: thepoetsinn-cover.png
+img: thepoetsinn-banner.png
 alt: image-alt
 project-date: May 2022
 client: UM Programming I Course
